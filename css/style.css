@@ -7,8 +7,8 @@ body{
 
 header, nav{
     /* Set padding and margin */
-    padding: 20px 5px 30px 50px;
-    margin: 10px 5px 30px 50px;
+    padding: 10px 5px 30px 10px;
+    margin: 10px 5px 30px 10px;
 }
 
 nav ul li{
@@ -43,7 +43,7 @@ nav a.current{
 
 h1{
    /*Set font and font size*/
-    font-size: 24px;
+    font-size: 50px;
     font-family:'Merriweather','Anton','Times New Roman', 'roboto';
 }
 
